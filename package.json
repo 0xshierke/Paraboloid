@@ -1,0 +1,29 @@
+{
+  "name": "paraboloid",
+  "version": "1.0.0",
+  "description": "Interest based off strategies based off covex fi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xshierke/Paraboloid.git"
+  },
+  "keywords": [
+    "defi",
+    "protocol",
+    "convex",
+    "fi"
+  ],
+  "author": "0xShierka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xshierke/Paraboloid/issues"
+  },
+  "homepage": "https://github.com/0xshierke/Paraboloid#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.1"
+  }
+}
